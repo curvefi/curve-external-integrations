@@ -1,0 +1,9 @@
+[{
+  "name": "Curve Trading Bots",
+  "description": "Decentralized Curve Trading Bots allows to create limit orders, stop losses, and automated traded on Curve AMMs",
+  "imageId": "curve-trading-bots.png",
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["bots"],
+  "networks": ["ethereum"]
+}]
