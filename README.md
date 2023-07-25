@@ -32,5 +32,5 @@ Example:
 
 Easy two-step process for your app/tool to appear on Curve's websites:
 
-1. You'll need to upload the app/tool's logo to the [`curve-assets` repo](https://github.com/curvefi/curve-assets/tree/main/platforms) (submit a PR there, we'll be notified and will review and merge it).
+1. You'll need to upload the app/tool's logo to the [`curve-assets` repo](https://github.com/curvefi/curve-assets/tree/main/platforms) (submit a PR there, we'll be notified and will review and merge it). Either an SVG image, or a PNG/JPG of at least 200x200 and at most 500x500 px.
 2. Submit a PR in this very repository, adding the app/tool's metadata as described above in the [`integrations-list.json`](https://github.com/curvefi/curve-external-integrations/blob/main/integrations-list.json) file. You don't have to wait for (1) to be merged to do this. We'll also be notified and will review and merge your PR.
