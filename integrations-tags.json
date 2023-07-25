@@ -1,0 +1,22 @@
+[{
+  "id": "all",
+  "displayName": "All"
+}, {
+  "id": "bots",
+  "displayName": "Bots"
+}, {
+  "id": "defi",
+  "displayName": "DeFi"
+}, {
+  "id": "gameNft",
+  "displayName": "Game / NFT"
+}, {
+  "id": "learningData",
+  "displayName": "Learning / Data"
+}, {
+  "id": "votingIncentives",
+  "displayName": "Voting / Incentives"
+}, {
+  "id": "other",
+  "displayName": "Other"
+}]
