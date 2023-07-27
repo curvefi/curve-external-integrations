@@ -6,4 +6,300 @@
   "twitterUrl": null,
   "tags": ["bots"],
   "networks": ["ethereum"]
+},{
+  "name": "Zeeverse",
+  "description": "Curve Metaverse",
+  "imageId": null,
+  "appUrl": "https://zee-verse.com/",
+  "twitterUrl": null,
+  "tags": ["gameNft"],
+  "networks": ["ethereum"]
+},{
+  "name": "Phi",
+  "description": "Social World Created from Wallet Activities",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["gameNft"],
+  "networks":  ["ethereum"]
+},{
+  "name": "The Llamas",
+  "description": "Bringing NFT Utility to the Curve Ecosystem",
+  "imageId": null,
+  "appUrl": "https://www.thellamas.io/",
+  "twitterUrl": null,
+  "tags": ["gameNft"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Curve.wiki",
+  "description": "Curve Website",
+  "imageId": null,
+  "appUrl": "https://www.curve.wiki/",
+  "twitterUrl": null,
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Defillamma",
+  "description": "Open and Transparent Defi TVL and Analytics",
+  "imageId": null,
+  "appUrl": "https://defillama.com/",
+  "twitterUrl": null,
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Llamacollege",
+  "description": "Helping crypto projects create content together with their community",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": "https://twitter.com/LlamaCollege",
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Curve Dune",
+  "description": "Learn about Curve's on-chain data",
+  "imageId": null,
+  "appUrl": "https://dune.com/projects/curvefi",
+  "twitterUrl": null,
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Curve substack",
+  "description": "Curve ecological knowledge articles",
+  "imageId": null,
+  "appUrl": "https://curve.substack.com/",
+  "twitterUrl": null,
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Cryptouf",
+  "description": "Weekly newsletter",
+  "imageId": null,
+  "appUrl": "https://substack.com/@cryptouf",
+  "twitterUrl": null,
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Votium",
+  "description": "Rewards $CRX & $CRV holders for their valuable voting power",
+  "imageId": null,
+  "appUrl": "https://votium.app/",
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "yBribe",
+  "description": "veCRV voting market by Yearn",
+  "imageId": null,
+  "appUrl": "https://yearn.finance/ybribe",
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Paladin",
+  "description": "Markets for influence and voting rights across Defi",
+  "imageId": null,
+  "appUrl": "https://paladin.vote/",
+  "twitterUrl": "https://twitter.com/Paladin_vote",
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "veToken",
+  "description": "Lock more veAsset permanently",
+  "imageId": null,
+  "appUrl": "https://vetoken.finance/",
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "LobbyDAO",
+  "description": "Designed to improve the voting market of vlCVX and veCRV",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": "https://twitter.com/LobbyPage",
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Llama Airforce",
+  "description": "uCRV Union Bribes",
+  "imageId": null,
+  "appUrl": "https://llama.airforce/",
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Convergence",
+  "description": "Governance black hole",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Votemarket (StakeDAO)",
+  "description": "Yeild + Options + Rewards Power from lockable tokens",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Convex",
+  "description": "Boosted Curve staking! Maximize your yields!",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Yearn",
+  "description": "yCRV + Curve yield compounder",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Clever",
+  "description": "Simplifies & automates the process of earning bribes and rewards for $CVX",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Pirex",
+  "description": "Derivaties trading market for voting rights",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Uncle Bond",
+  "description": "vlCVX compounder",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["votingIncentives"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Conic Finance",
+  "description": "Omnipools for curve.fi ecosystem",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Redacted",
+  "description": "Empowering on-chain liquidity, governance, and cash flow for Defi protocols",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Abracadabra",
+  "description": "Borrow, leverage or earn yield",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Gearbox",
+  "description": "Composable leverage protocol",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Curvance",
+  "description": "Lending & boosted rewards for Curve, Convex and Yearn deposits - $CVE",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Alchemix",
+  "description": "Leverage your wealth without risk of liquidation with a self-repaying loan",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Lybra Finance",
+  "description": "1 interest-bearing stablecoin backed by LSD",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Prisma Finance",
+  "description": "The end game for liquid staking tokens",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Ethereum Reserve Dollar",
+  "description": "On Ethereum.By Ethereum for Ethereum",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Gravita Protocol",
+  "description": "An $ETH-centric borrowing protocol for LSTs",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Puffer Finance",
+  "description": "Anti-slashing liquid staking",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Lido",
+  "description": "Liquidity for staked tokens",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Rocket Pool",
+  "description": "Decentralised Ethereum staking Protocol",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Concentrator",
+  "description": "Seamless compounding made for $CRV, $CVX, $FRAX Maxis",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "FOCUS",
+  "description": "Focus on your $CRV and $CVX yields",
+  "imageId": null,
+  "appUrl": null,
+  "twitterUrl": null,
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
