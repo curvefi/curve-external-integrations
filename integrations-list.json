@@ -305,7 +305,7 @@
 },{
   "name": "Leviathan News",
   "description": "Defi headline news and daily livestream with frequent Curve coverage",
-  "imageId": "leviathan-news",
+  "imageId": "leviathan-news.png",
   "appUrl": "https://t.me/leviathan_news",
   "twitterUrl": "https://twitter.com/leviathan_news",
   "tags": ["learningData"],
