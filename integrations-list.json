@@ -39,7 +39,7 @@
   "tags": ["learningData"],
   "networks":  ["ethereum"]
 },{
-  "name": "Defillamma",
+  "name": "DefiLlama",
   "description": "Open and Transparent Defi TVL and Analytics",
   "imageId": "defi-llama.png",
   "appUrl": "https://defillama.com/",
@@ -300,6 +300,14 @@
   "imageId": "focus.png",
   "appUrl": null,
   "twitterUrl": "https://twitter.com/focus_credit",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Leviathan News",
+  "description": "Defi headline news and daily livestream with frequent Curve coverage",
+  "imageId": "leviathan-news",
+  "appUrl": "https://t.me/leviathan_news",
+  "twitterUrl": "https://twitter.com/leviathan_news",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 }]
