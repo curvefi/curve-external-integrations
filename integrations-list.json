@@ -308,6 +308,6 @@
   "imageId": "leviathan-news",
   "appUrl": "https://t.me/leviathan_news",
   "twitterUrl": "https://twitter.com/leviathan_news",
-  "tags": ["defi"],
+  "tags": ["learningData"],
   "networks":  ["ethereum"]
 }]
