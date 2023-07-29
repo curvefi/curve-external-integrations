@@ -4,7 +4,7 @@
   "imageId": "curve-trading-bots.png",
   "appUrl": "https://curvebot.fi",
   "twitterUrl": "https://twitter.com/paloma_chain",
-  "tags": ["bots"],
+  "tags": ["automation"],
   "networks": ["ethereum"]
 },{
   "name": "Zeeverse",
