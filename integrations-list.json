@@ -130,8 +130,8 @@
   "name": "Convergence",
   "description": "Governance black hole",
   "imageId": "convergence.png",
-  "appUrl": "https://conv.finance/",
-  "twitterUrl": "https://twitter.com/convergencefin",
+  "appUrl": "https://cvg.finance/",
+  "twitterUrl": "https://twitter.com/Convergence_fi",
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
 },{
