@@ -2,8 +2,8 @@
   "id": "all",
   "displayName": "All"
 }, {
-  "id": "automation",
-  "displayName": "Automation"
+  "id": "bots",
+  "displayName": "Bots"
 }, {
   "id": "defi",
   "displayName": "DeFi"
