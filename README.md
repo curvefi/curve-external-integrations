@@ -1,6 +1,6 @@
 # Curve Integrations
 
-This repository's configuration files contain all metadata for apps and tools listed on https://curve.fi/integrations
+This repository's configuration files contain all metadata for apps and tools listed on https://curve.fi/#/integrations
 
 ## Integration metadata structure
 
