@@ -318,4 +318,19 @@
   "twitterUrl": "https://twitter.com/leviathan_news",
   "tags": ["learningData"],
   "networks":  ["ethereum"]
+},{
+  "name": "Reserve",
+  "description": "A permissionless platform to launch and govern 1:1 asset-backed stable currencies",
+  "imageId": "reserve.png",
+  "appUrl": "https://register.app",
+  "twitterUrl": "https://twitter.com/reserveprotocol",
+},{
+  "name": "Inverse Finance",
+  "description": "Fixed-Rate borrowing against CRV, CRV derivatives and more",
+  "imageId": "inverse-finance.png",
+  "appUrl": "https://inverse.finance",
+  "twitterUrl": "https://twitter.com/InverseFinance",
+
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
