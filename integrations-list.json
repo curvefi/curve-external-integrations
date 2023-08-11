@@ -310,4 +310,12 @@
   "twitterUrl": "https://twitter.com/leviathan_news",
   "tags": ["learningData"],
   "networks":  ["ethereum"]
+},{
+  "name": "Inverse Finance",
+  "description": "Fixed-Rate borrowing against CRV, CRV derivatives and more",
+  "imageId": "inverse-finance.png",
+  "appUrl": "https://inverse.finance",
+  "twitterUrl": "https://twitter.com/InverseFinance",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
