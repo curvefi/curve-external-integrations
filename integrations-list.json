@@ -136,7 +136,7 @@
   "networks":  ["ethereum"]
 },{
   "name": "Votemarket (Stake DAO)",
-  "description": "Yield + Options + Rewards Power from lockable tokens",
+  "description": "Votemarket is the on-chain vote incentives platform",
   "imageId": "votemarket-stake-dao.png",
   "appUrl": "https://votemarket.stakedao.org/",
   "twitterUrl": "https://twitter.com/StakeDAOHQ",
