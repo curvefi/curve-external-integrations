@@ -135,13 +135,21 @@
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
 },{
-  "name": "Votemarket (StakeDAO)",
-  "description": "Yeild + Options + Rewards Power from lockable tokens",
+  "name": "Votemarket (Stake DAO)",
+  "description": "Yield + Options + Rewards Power from lockable tokens",
   "imageId": "votemarket-stake-dao.png",
-  "appUrl": "https://stakedao.org/",
+  "appUrl": "https://votemarket.stakedao.org/",
   "twitterUrl": "https://twitter.com/StakeDAOHQ",
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
+},{
+  "name": "Liquid Lockers (Stake DAO)",
+  "description": "Stake DAO is a non-custodial liquid staking platform focused on governance tokens.",
+  "imageId": "votemarket-stake-dao.png",
+  "appUrl": "https://lockers.stakedao.org/",
+  "twitterUrl": "https://twitter.com/StakeDAOHQ",
+  "tags": ["defi"],
+  "networks":  ["ethereum","arbitrum"]
 },{
   "name": "Convex",
   "description": "Boosted Curve staking! Maximize your yields!",
@@ -316,6 +324,13 @@
   "imageId": "reserve.png",
   "appUrl": "https://register.app",
   "twitterUrl": "https://twitter.com/reserveprotocol",
+},{
+  "name": "Inverse Finance",
+  "description": "Fixed-Rate borrowing against CRV, CRV derivatives and more",
+  "imageId": "inverse-finance.png",
+  "appUrl": "https://inverse.finance",
+  "twitterUrl": "https://twitter.com/InverseFinance",
+
   "tags": ["defi"],
   "networks":  ["ethereum"]
 }]
