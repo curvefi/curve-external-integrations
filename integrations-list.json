@@ -333,4 +333,13 @@
 
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "LlamaRisk",
+  "description": "Due diligence reports on topics relevant to Curve DAO and its liquidity providers",
+  "imageId": "llamarisk.png",
+  "appUrl": "https://cryptorisks.substack.com/",
+  "twitterUrl": "https://twitter.com/LlamaRisk",
+
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
 }]
