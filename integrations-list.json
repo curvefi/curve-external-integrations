@@ -324,13 +324,38 @@
   "imageId": "reserve.png",
   "appUrl": "https://register.app",
   "twitterUrl": "https://twitter.com/reserveprotocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 },{
   "name": "Inverse Finance",
   "description": "Fixed-Rate borrowing against CRV, CRV derivatives and more",
   "imageId": "inverse-finance.png",
   "appUrl": "https://inverse.finance",
   "twitterUrl": "https://twitter.com/InverseFinance",
-
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Frax Finance",
+  "description": "Frax Protocol issues the most innovative stablecoins in crypto & builds cross chain infrastructure for them: $FRAX \uD83D\uDCB0 $FPI ¤ $frxETH",
+  "imageId": "frax-finance.png",
+  "appUrl": "https://frax.finance",
+  "twitterUrl": "https://twitter.com/FraxFinance",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "DefiSaver",
+  "description": "DeFi Saver is a one-stop management solution for decentralized finance with advanced leverage management tools and unique automated management features.",
+  "imageId": "defisaver.png",
+  "appUrl": "https://defisaver.com",
+  "twitterUrl": "https://twitter.com/defisaver",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Mai Finance",
+  "description": "QiDao is a non-custodial, decentralised and overcollateralised lending protocol where users can mint native $MAI stablecoins with the value of their tokens.",
+  "imageId": "mai-finance.png",
+  "appUrl": "https://app.mai.finance",
+  "twitterUrl": "https://twitter.com/QiDaoProtocol",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
@@ -339,7 +364,6 @@
   "imageId": "llamarisk.png",
   "appUrl": "https://cryptorisks.substack.com/",
   "twitterUrl": "https://twitter.com/LlamaRisk",
-
   "tags": ["learningData"],
   "networks":  ["ethereum"]
 }]
