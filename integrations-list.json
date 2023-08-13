@@ -310,4 +310,12 @@
   "twitterUrl": "https://twitter.com/OriginProtocol",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "Zunami Protocol",
+  "description": "Decentralized Stablecoins and Omnipools",
+  "imageId": "zunami.png",
+  "appUrl": "https://app.zunami.io/",
+  "twitterUrl": "https://twitter.com/ZunamiProtocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "polygon", "bsc"]
 }]
