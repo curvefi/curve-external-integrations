@@ -258,8 +258,8 @@
   "name": "Ethereum Reserve Dollar",
   "description": "On Ethereum.By Ethereum for Ethereum",
   "imageId": "ethereum-reserve-dollar.png",
-  "appUrl": null,
-  "twitterUrl": null,
+  "appUrl": "https://erd.xyz/",
+  "twitterUrl": "https://twitter.com/Ethereum_ERD",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
