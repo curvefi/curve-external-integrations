@@ -368,7 +368,7 @@
   "networks":  ["ethereum"]
 },{
   "name": "Portals.fi",
-  "description": "A yield and protocol aggregator for transaction bundling, any-to-any swaps, and real-time data. ",
+  "description": "A yield and protocol aggregator for transaction bundling, any-to-any swaps, and real-time data.",
   "imageId": "portals.png",
   "appUrl": "https://app.portals.fi",
   "twitterUrl": "https://twitter.com/portals_fi",
