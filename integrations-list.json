@@ -374,4 +374,12 @@
   "twitterUrl": "https://twitter.com/portals_fi",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "Origin Protocol",
+  "description": "Origin Protocol is a collection of rebasing yield aggregators and NFT marketplaces designed in a set and forget fashion.",
+  "imageId": "origin.png",
+  "appUrl": "https://www.originprotocol.com/",
+  "twitterUrl": "https://twitter.com/OriginProtocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
