@@ -32,6 +32,11 @@ Example:
 
 ## Adding an integration to the list
 
+Conditions the project must meet in order to be added to the list of integrations:
+
+1. It must fit the ["Curve integration" definition](https://github.com/curvefi/curve-external-integrations/tree/main#curve-integrations)
+2. It must be live
+
 Easy two-step process for your app/tool to appear on Curve's websites:
 
 1. You'll need to upload the app/tool's logo to the [`curve-assets` repo](https://github.com/curvefi/curve-assets/tree/main/platforms) (submit a PR there, we'll be notified and will review and merge it). Either an SVG image, or a PNG/JPG of at least 200x200 and at most 500x500 px.
