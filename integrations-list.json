@@ -103,14 +103,6 @@
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
 },{
-  "name": "veToken",
-  "description": "Lock more veAsset permanently",
-  "imageId": "vetoken.png",
-  "appUrl": "https://vetoken.finance/",
-  "twitterUrl": "https://twitter.com/vetokenfinance",
-  "tags": ["votingIncentives"],
-  "networks":  ["ethereum"]
-},{
   "name": "LobbyDAO",
   "description": "Designed to improve the voting market of vlCVX and veCRV",
   "imageId": "lobby-dao.png",
@@ -239,75 +231,11 @@
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
-  "name": "Lybra Finance",
-  "description": "1 interest-bearing stablecoin backed by LSD",
-  "imageId": "lybra-finance.png",
-  "appUrl": "https://lybra.finance/",
-  "twitterUrl": "https://twitter.com/LybraFinanceLSD",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Prisma Finance",
-  "description": "The end game for liquid staking tokens",
-  "imageId": "prisma-finance.png",
-  "appUrl": "https://prismafinance.com/",
-  "twitterUrl": "https://twitter.com/PrismaFi",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Ethereum Reserve Dollar",
-  "description": "On Ethereum.By Ethereum for Ethereum",
-  "imageId": "ethereum-reserve-dollar.png",
-  "appUrl": "https://erd.xyz/",
-  "twitterUrl": "https://twitter.com/Ethereum_ERD",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Gravita Protocol",
-  "description": "An $ETH-centric borrowing protocol for LSTs",
-  "imageId": "gravita-protocol.png",
-  "appUrl": "https://www.gravitaprotocol.com/",
-  "twitterUrl": "https://twitter.com/gravitaprotocol",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Puffer Finance",
-  "description": "Anti-slashing liquid staking",
-  "imageId": "puffer-finance.png",
-  "appUrl": "https://www.puffer.fi/",
-  "twitterUrl": "https://twitter.com/puffer_finance",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Lido",
-  "description": "Liquidity for staked tokens",
-  "imageId": "lido.png",
-  "appUrl": "https://lido.fi/",
-  "twitterUrl": "https://twitter.com/LidoFinance",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Rocket Pool",
-  "description": "Decentralised Ethereum staking Protocol",
-  "imageId": "rocket-pool.png",
-  "appUrl": "https://rocketpool.net/",
-  "twitterUrl": "https://twitter.com/Rocket_Pool",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
   "name": "Concentrator",
   "description": "Seamless compounding made for $CRV, $CVX, $FRAX Maxis",
   "imageId": "concentrator.png",
   "appUrl": "https://concentrator.aladdin.club",
   "twitterUrl": "https://twitter.com/0xconcentrator",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
-  "name": "FOCUS",
-  "description": "Focus on your $CRV and $CVX yields",
-  "imageId": "focus.png",
-  "appUrl": null,
-  "twitterUrl": "https://twitter.com/focus_credit",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
