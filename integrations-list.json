@@ -148,15 +148,15 @@
   "imageId": "convex.png",
   "appUrl": "https://www.convexfinance.com/",
   "twitterUrl": "https://twitter.com/ConvexFinance",
-  "tags": ["votingIncentives"],
-  "networks":  ["ethereum"]
+  "tags": ["defi", "votingIncentives"],
+  "networks":  ["ethereum", "arbitrum", "polygon"]
 },{
   "name": "Yearn",
   "description": "yCRV + Curve yield compounder",
   "imageId": "yearn.png",
   "appUrl": "https://yearn.finance/",
   "twitterUrl": "https://twitter.com/yearnfi",
-  "tags": ["votingIncentives"],
+  "tags": ["defi", "votingIncentives"],
   "networks":  ["ethereum"]
 },{
   "name": "Clever",
