@@ -17,6 +17,9 @@
   "id": "votingIncentives",
   "displayName": "Voting / Incentives"
 }, {
+  "id": "portfolio",
+  "displayName": "Portfolio"
+}, {
   "id": "other",
   "displayName": "Other"
 }]
