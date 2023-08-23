@@ -276,7 +276,7 @@
   "imageId": "defisaver.png",
   "appUrl": "https://defisaver.com",
   "twitterUrl": "https://twitter.com/defisaver",
-  "tags": ["defi"],
+  "tags": ["defi", "portfolio"],
   "networks":  ["ethereum"]
 },{
   "name": "Mai Finance",
@@ -318,4 +318,28 @@
   "twitterUrl": "https://twitter.com/ZunamiProtocol",
   "tags": ["defi"],
   "networks":  ["ethereum", "polygon", "bsc"]
+},{
+  "name": "Zapper",
+  "description": "Track your DeFi and NFT portfolio",
+  "imageId": "zapper.svg",
+  "appUrl": "https://zapper.xyz/",
+  "twitterUrl": "https://twitter.com/zapper_fi",
+  "tags": ["portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "Zerion",
+  "description": "Track your entire crypto portfolio across every wallet you own",
+  "imageId": "zerion.png",
+  "appUrl": "https://app.zerion.io/",
+  "twitterUrl": "https://twitter.com/zerion",
+  "tags": ["portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "aurora", "gnosis", "base"]
+},{
+  "name": "Rotki",
+  "description": "Opensource portfolio tracking, analytics and crypto accounting app that protects your privacy",
+  "imageId": "rotki.jpg",
+  "appUrl": "https://rotki.com/",
+  "twitterUrl": "https://twitter.com/rotkiapp",
+  "tags": ["portfolio"],
+  "networks":  ["ethereum", "polygon", "arbitrum", "avalanche", "optimism"]
 }]
