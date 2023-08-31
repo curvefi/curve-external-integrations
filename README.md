@@ -1,43 +1,13 @@
-# Curve Integrations
+# RSS Builder by B!Soft MarkBook RSS Feed
 
-This repository's configuration files contain all metadata for apps and tools listed on https://curve.fi/#/integrations
-
-**Definition:** A Curve integration is a project that builds on top of Curve, and as a result extends what Curve users can do. E.g. using Curve LP tokens as collateral for anything, stats or information about Curve and its ecosystem, third-party front-ends…
-
-## Integration metadata structure
-
-Each integration's metadata must have the following properties:
-
-- `name`: Name of the app/tool
-- `description`: One-sentence description, not too long
-- `imageId`: Filename of the app/tool's logo in the [`curve-assets` repo](https://github.com/curvefi/curve-assets/tree/main/platforms)
-- `appUrl`: Link to the app/tool's webpage, or `null`
-- `twitterUrl`: Link to the app/tool's Twitter profile, or `null`
-- `tags`: Array of relevant tags (any of the tags ids listed here: [`integrations-tags.json`](https://github.com/curvefi/curve-external-integrations/blob/main/integrations-tags.json))
-- `networks`: Array of relevant networks
-
-Example:
-
-```json
-{
-  "name": "Curve Trading Bots",
-  "description": "Decentralized Curve Trading Bots allows to create limit orders, stop losses, and automated traded on Curve AMMs",
-  "imageId": "curve-trading-bots.png",
-  "appUrl": null,
-  "twitterUrl": null,
-  "tags": ["bots"],
-  "networks": ["ethereum"]
-}
-```
-
-## Adding an integration to the list
-
-Conditions the project must meet in order to be added to the list of integrations:
-
-1. It must fit the ["Curve integration" definition](https://github.com/curvefi/curve-external-integrations/tree/main#curve-integrations)
-2. It must be live
-
-Easy two-step process for your app/tool to appear on Curve's websites:
-
-1. You'll need to upload the app/tool's logo to the [`curve-assets` repo](https://github.com/curvefi/curve-assets/tree/main/platforms) (submit a PR there, we'll be notified and will review and merge it). Either an SVG image, or a PNG/JPG of at least 200x200 and at most 500x500 px.
-2. Submit a PR in this very repository, adding the app/tool's metadata as described above in the [`integrations-list.json`](https://github.com/curvefi/curve-external-integrations/blob/main/integrations-list.json) file. You don't have to wait for (1) to be merged to do this. We'll also be notified and will review and merge your PR. *Please provide a very short explanation of how the submitted project fits into the ["Curve integration" definition](https://github.com/curvefi/curve-external-integrations/tree/main#curve-integrations), if it isn't immediately obvious from the project's metadata in your PR.*
+https://www.markbook.com MarkBook RSS Feed. Keep up to date on the latest news. en-us mrichardson@acadiemgroup.com The Acadiem Group 2020 NEW MarkBook HTML5 is Here! 10 Oct 2020 10:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News Our ALL NEW MarkBook HTML5 Web Application is Here! Flash or Flex is no longer required. Many added features in a clean new look. Now you can use MarkBook on your Chromebook, Android or iPadOS tablet as well as Windows, macOS or Linux devices. (Select tablets only) A new version of the app, 1.1.0 22 Dec 2020 16:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.1.0, has been launched. It contains a major security update. Please see the Release Notes for the details. A new version of the app, 1.2.0 26 Jan 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.2.0, has been launched. You can now Copy Comments to many students at once and easily input entries on tablets using Numeric Keypad. Please see the Release Notes for the details. A new version of the app, 1.3.0 25 Mar 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.3.0, has been launched. Please see the Release Notes for the details. A new version of the app, 1.4.0 30 Apr 2021 08:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.4.0, has been launched. Please see the Release Notes for the details. For TDSB users 6 Aug 2021 08:00:00 -0400 http://tdsb.on.ca/ mrichardson@acadiemgroup.com News TDSB users: In preparation for Single Sign On service in September, all usernames now use your Toronto District School Board email address. TDSB-logo.png Attention TDSB Users 18 Sep 2021 01:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News On Saturday September 18th, Single Sign On (SSO) will be implemented for TDSB MarkBook (Cloud) users. After the implementation is completed, teachers will be required to sign onto MarkBook using their TDSB e- mail address and password. Teachers that are already signing onto MarkBook with their TDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TDSB-logo.png For TVDSB Users 09 Sep 2022 01:00:00 -0400 
+https://www.markbook.com News On Tuesday, September 6th, Single Sign On (SSO) was implemented for TVDSB MarkBook (Cloud) users. Teachers are now required to sign onto MarkBook using their TVDSB e-mail address and password in the Microsoft 365 Apps environment. Please follow the Information Guidesheet for "Transfer from Individual to Corporate Domain using SSO in MarkBook®”. Teachers that are already signing onto MarkBook with their TVDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TVDSB-logo.webp WECDSB 31 Oct 2022 01:00:00 -0400 
+https://www.markbook.com News WECDSB users, please ensure that you have updated ALL of your courses with the most recent Aspen extract that has your first initial and last name in the file name (i.e. see below). Furthermore, please ensure you have submitted a copy (screenshots) of your updated courses to your school-issued Google form. WECDSB-logo.png
