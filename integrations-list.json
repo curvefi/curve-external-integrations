@@ -342,4 +342,20 @@
   "twitterUrl": "https://twitter.com/rotkiapp",
   "tags": ["portfolio"],
   "networks":  ["ethereum", "polygon", "arbitrum", "avalanche", "optimism"]
+},{
+  "name": "Chaos Labs crvUSD dashboard",
+  "description": "crvUSD risk monitoring and alerting platform",
+  "imageId": "chaoslabs.png",
+  "appUrl": "https://community.chaoslabs.xyz/crv-usd/risk/overview",
+  "twitterUrl": null,
+  "tags": ["learningData", "crvusd"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Curve Monitor",
+  "description": "Extensive data about crvUSD, Curve pools, and Curve DAO",
+  "imageId": "curvemonitor.png",
+  "appUrl": "https://curvemonitor.com/",
+  "twitterUrl": null,
+  "tags": ["learningData", "crvusd"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
 }]
