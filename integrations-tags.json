@@ -20,6 +20,9 @@
   "id": "portfolio",
   "displayName": "Portfolio"
 }, {
+  "id": "crvusd",
+  "displayName": "crvUSD"
+}, {
   "id": "other",
   "displayName": "Other"
 }]
