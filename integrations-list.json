@@ -313,7 +313,7 @@
 },{
   "name": "Zunami Protocol",
   "description": "Decentralized Stablecoins and Omnipools",
-  "imageId": "zunami.svg",
+  "imageId": "zunami.png",
   "appUrl": "https://app.zunami.io/",
   "twitterUrl": "https://twitter.com/ZunamiProtocol",
   "tags": ["defi"],
