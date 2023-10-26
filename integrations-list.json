@@ -358,4 +358,12 @@
   "twitterUrl": null,
   "tags": ["learningData", "crvusd"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "OpenLiq",
+  "description": "Omnichain liquidity aggregation service for DeFi",
+  "imageId": "openliq.png",
+  "appUrl": "https://app.openliq.com/",
+  "twitterUrl": "https://twitter.com/OpenLiq",
+  "tags": ["DEFI"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base", "kava", "moonbeam"]
 }]
