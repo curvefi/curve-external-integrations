@@ -366,4 +366,12 @@
   "twitterUrl": "https://twitter.com/OpenLiq",
   "tags": ["defi"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base", "kava", "moonbeam"]
+},{
+  "name": "Valora",
+  "description": "A mobile wallet that supports tracking your Curve pools",
+  "imageId": "valora.png",
+  "appUrl": "https://valora.xyz/",
+  "twitterUrl": "https://twitter.com/Valora",
+  "tags": ["portfolio"],
+  "networks":  ["celo"]
 }]
