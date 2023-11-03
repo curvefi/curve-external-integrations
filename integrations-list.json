@@ -374,4 +374,12 @@
   "twitterUrl": "https://twitter.com/Valora",
   "tags": ["portfolio"],
   "networks":  ["celo"]
+},{
+  "name": "LlamaFolio",
+  "description": "Open source, privacy conscious portfolio tracker",
+  "imageId": "llamafolio.png",
+  "appUrl": "https://llamafolio.com/",
+  "twitterUrl": "https://twitter.com/LlamaFolio",
+  "tags": ["portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "gnosis", "base"]
 }]
