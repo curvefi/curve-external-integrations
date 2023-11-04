@@ -382,4 +382,12 @@
   "twitterUrl": "https://twitter.com/LlamaFolio",
   "tags": ["portfolio"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "gnosis", "base"]
+},{
+  "name": "Vektor",
+  "description": "Vektor is a DeFi command centre to query and visualise real-time data, execute powerful transactions and automate repetitive workflows across multiple blockchains and protocols while remaining non-custodial.",
+  "imageId": "vektor.png",
+  "appUrl": "https://vektor.finance",
+  "twitterUrl": "https://twitter.com/VektorFinance",
+  "tags": ["defi", "portfolio", "learningData"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "gnosis", "base", "moonbeam"]
 }]
