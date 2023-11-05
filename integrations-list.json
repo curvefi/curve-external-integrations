@@ -390,4 +390,12 @@
   "twitterUrl": "https://twitter.com/VektorFinance",
   "tags": ["defi", "portfolio", "learningData"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "gnosis", "base", "moonbeam"]
+},{
+  "name": "Accumulated Finance",
+  "description": "Liquid staking ecosystem integrated with Curve",
+  "imageId": "accumulated-finance.png",
+  "appUrl": "https://accumulated.finance",
+  "twitterUrl": "https://twitter.com/AccumulatedFi",
+  "tags": ["defi"],
+  "networks": ["ethereum", "arbitrum"]
 }]
