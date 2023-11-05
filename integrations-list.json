@@ -384,7 +384,7 @@
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "gnosis", "base"]
 },{
   "name": "Vektor",
-  "description": "DeFi command centre to query & visualise real-time data, execute transactions and automate workflows non-custodially",
+  "description": "DeFi command center to query & visualise real-time data, execute transactions and automate workflows non-custodially",
   "imageId": "vektor.png",
   "appUrl": "https://vektor.finance",
   "twitterUrl": "https://twitter.com/VektorFinance",
