@@ -382,4 +382,12 @@
   "twitterUrl": "https://twitter.com/LlamaFolio",
   "tags": ["portfolio"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "gnosis", "base"]
+},{
+  "name": "Vektor",
+  "description": "DeFi command center to query & visualise real-time data, execute transactions and automate workflows non-custodially",
+  "imageId": "vektor.png",
+  "appUrl": "https://vektor.finance",
+  "twitterUrl": "https://twitter.com/VektorFinance",
+  "tags": ["defi", "portfolio", "learningData"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "gnosis", "base", "moonbeam"]
 }]
