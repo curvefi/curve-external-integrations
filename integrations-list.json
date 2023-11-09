@@ -398,4 +398,12 @@
   "twitterUrl": "https://twitter.com/AccumulatedFi",
   "tags": ["defi"],
   "networks": ["ethereum", "arbitrum"]
+},{
+  "name": "Cobo Argus",
+  "description": "Institutional-grade on-chain digital asset management solution",
+  "imageId": "cobo-argus.png",
+  "appUrl": "https://www.cobo.com/argus",
+  "twitterUrl": "https://twitter.com/Cobo_Global",
+  "tags":  ["defi", "bot", "portfolio"],
+  "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
 }]
