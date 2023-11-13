@@ -406,4 +406,12 @@
   "twitterUrl": "https://twitter.com/Cobo_Global",
   "tags":  ["defi", "bot", "portfolio"],
   "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
+},{
+  "name": "Beefy",
+  "description": "Autocompounding tokens on Beefy is the easiest way to earn more in DeFi.",
+  "imageId": "beefy.png",
+  "appUrl": "https://app.beefy.com/",
+  "twitterUrl": "https://twitter.com/beefyfinance",
+  "tags": ["defi"],
+  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base"]
 }]
