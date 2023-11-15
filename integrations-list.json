@@ -408,7 +408,7 @@
   "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
 },{
   "name": "Beefy",
-  "description": "Autocompounding tokens on Beefy is the easiest way to earn more in DeFi.",
+  "description": "Autocompounding Curve LPs and more on over 20 blockchains.",
   "imageId": "beefy.png",
   "appUrl": "https://app.beefy.com/",
   "twitterUrl": "https://twitter.com/beefyfinance",
