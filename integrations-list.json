@@ -7,6 +7,14 @@
   "tags": ["bots"],
   "networks": ["ethereum"]
 },{
+  "name": "Puffer",
+  "description": "Native Liquid Restaking",
+  "imageId": "puffer-finance.png",
+  "appUrl": "https://puffer.fi/",
+  "twitterUrl": "https://twitter.com/puffer_finance",
+  "tags": ["DeFi"],
+  "networks": ["ethereum"]
+},{
   "name": "Zeeverse",
   "description": "Curve Metaverse",
   "imageId": "zeeverse.png",
