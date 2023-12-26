@@ -8,6 +8,9 @@
   "id": "defi",
   "displayName": "DeFi"
 }, {
+  "id": "native restaking",
+  "displayName": "Native Restaking"
+}, {
   "id": "gameNft",
   "displayName": "Game / NFT"
 }, {
