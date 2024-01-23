@@ -422,4 +422,12 @@
   "twitterUrl": "https://twitter.com/metacrm_inc",
   "tags": ["other"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "optimism"]
+},{
+  "name": "CrossCurve powered by EYWA",
+  "description": "The only pool working with Curve’s official bridge",
+  "imageId": "cross-curve.png",
+  "appUrl": "https://app.eywa.fi/",
+  "twitterUrl": "https://twitter.com/eywaprotocol",
+  "tags": ["defi", "votingIncentives"],
+  "networks":  ["ethereum", "polygon", "bsc", "avalanche", "arbitrum", "optimism"]
 }]
