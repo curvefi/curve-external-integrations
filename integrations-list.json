@@ -424,7 +424,7 @@
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "optimism"]
 },{
   "name": "CrossCurve powered by EYWA",
-  "description": "The only pool working with Curve’s official bridge",
+  "description": "Cross-chain trading and yield protocol on top of Curve",
   "imageId": "cross-curve.png",
   "appUrl": "https://app.eywa.fi/",
   "twitterUrl": "https://twitter.com/eywaprotocol",
