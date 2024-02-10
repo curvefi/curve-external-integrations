@@ -358,4 +358,76 @@
   "twitterUrl": null,
   "tags": ["learningData", "crvusd"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "OpenLiq",
+  "description": "Omnichain liquidity aggregation service for DeFi",
+  "imageId": "openliq.png",
+  "appUrl": "https://app.openliq.com/",
+  "twitterUrl": "https://twitter.com/OpenLiq",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base", "kava", "moonbeam"]
+},{
+  "name": "Valora",
+  "description": "A mobile wallet that supports tracking your Curve pools",
+  "imageId": "valora.png",
+  "appUrl": "https://valora.xyz/",
+  "twitterUrl": "https://twitter.com/Valora",
+  "tags": ["portfolio"],
+  "networks":  ["celo"]
+},{
+  "name": "LlamaFolio",
+  "description": "Open source, privacy conscious portfolio tracker",
+  "imageId": "llamafolio.png",
+  "appUrl": "https://llamafolio.com/",
+  "twitterUrl": "https://twitter.com/LlamaFolio",
+  "tags": ["portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "gnosis", "base"]
+},{
+  "name": "Vektor",
+  "description": "DeFi command center to query & visualise real-time data, execute transactions and automate workflows non-custodially",
+  "imageId": "vektor.png",
+  "appUrl": "https://vektor.finance",
+  "twitterUrl": "https://twitter.com/VektorFinance",
+  "tags": ["defi", "portfolio", "learningData"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "gnosis", "base", "moonbeam"]
+},{
+  "name": "Accumulated Finance",
+  "description": "Liquid staking ecosystem integrated with Curve",
+  "imageId": "accumulated-finance.png",
+  "appUrl": "https://accumulated.finance",
+  "twitterUrl": "https://twitter.com/AccumulatedFi",
+  "tags": ["defi"],
+  "networks": ["ethereum", "arbitrum"]
+},{
+  "name": "Cobo Argus",
+  "description": "Institutional-grade on-chain digital asset management solution",
+  "imageId": "cobo-argus.png",
+  "appUrl": "https://www.cobo.com/argus",
+  "twitterUrl": "https://twitter.com/Cobo_Global",
+  "tags":  ["defi", "bot", "portfolio"],
+  "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
+},{
+  "name": "Beefy",
+  "description": "Autocompounding Curve LPs and more on over 20 blockchains.",
+  "imageId": "beefy.png",
+  "appUrl": "https://app.beefy.com/",
+  "twitterUrl": "https://twitter.com/beefyfinance",
+  "tags": ["defi"],
+  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base"]
+},{
+  "name": "MetaCRM",
+  "description": "Providing a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses",
+  "imageId": "metacrm.png",
+  "appUrl": "https://metacrm.inc/",
+  "twitterUrl": "https://twitter.com/metacrm_inc",
+  "tags": ["other"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "optimism"]
+},{
+  "name": "CrossCurve powered by EYWA",
+  "description": "Cross-chain trading and yield protocol on top of Curve",
+  "imageId": "cross-curve.png",
+  "appUrl": "https://app.eywa.fi/",
+  "twitterUrl": "https://twitter.com/eywaprotocol",
+  "tags": ["defi", "votingIncentives"],
+  "networks":  ["ethereum", "polygon", "bsc", "avalanche", "arbitrum", "optimism"]
 }]
