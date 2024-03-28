@@ -436,6 +436,6 @@
   "imageId": "uwulend.svg",
   "appUrl": "https://uwulend.fi/",
   "twitterUrl": "https://twitter.com/uwu_lend",
-  "tags": ["defi", "crvusd"],
+  "tags": ["defi"],
   "networks":  ["ethereum"]
 }]
