@@ -430,4 +430,12 @@
   "twitterUrl": "https://twitter.com/eywaprotocol",
   "tags": ["defi", "votingIncentives"],
   "networks":  ["ethereum", "polygon", "bsc", "avalanche", "arbitrum", "optimism"]
+},{
+  "name": "UwU Lend",
+  "description": "A lending protocol that generates significant exposure by integrating lending markets, strategies, and vaults.",
+  "imageId": "uwulend.svg",
+  "appUrl": "https://uwulend.fi/",
+  "twitterUrl": "https://twitter.com/uwu_lend",
+  "tags": ["defi", "crvusd"],
+  "networks":  ["ethereum"]
 }]
