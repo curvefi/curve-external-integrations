@@ -438,4 +438,12 @@
   "twitterUrl": "https://twitter.com/uwu_lend",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "IntoTheBlock crvUSD Dashboard",
+  "description": "crvUSD risk monitoring dashboard",
+  "imageId": "into-the-block.png",
+  "appUrl": "https://defirisk.intotheblock.com/metrics/ethereum/crvusd",
+  "twitterUrl": "https://twitter.com/intotheblock",
+  "tags": ["learningData", "crvusd"],
+  "networks": ["ethereum"]
 }]
