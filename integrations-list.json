@@ -446,4 +446,12 @@
   "twitterUrl": "https://twitter.com/intotheblock",
   "tags": ["learningData", "crvusd"],
   "networks": ["ethereum"]
+},{
+  "name": "Univerz DAO",
+  "description": "decentralized web3 for digital collectibles and non-fungible tokens (NFTs), with curve integration",
+  "imageId": "univerz.png",
+  "appUrl": "https://univerz.io/",
+  "twitterUrl": "https://twitter.com/univerz_io",
+  "tags": ["web3", "NFT", "defi"],
+  "networks": ["ethereum"]
 }]
