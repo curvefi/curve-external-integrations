@@ -23,6 +23,9 @@
   "id": "crvusd",
   "displayName": "crvUSD"
 }, {
+  "id": "lend",
+  "displayName": "Curve Lend"
+}, {
   "id": "other",
   "displayName": "Other"
 }]
