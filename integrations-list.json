@@ -408,12 +408,12 @@
   "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
 },{
   "name": "Beefy",
-  "description": "Autocompounding Curve LPs and more on over 20 blockchains.",
+  "description": "Autocompounding Curve LPs and Curve Lend on over 20 blockchains.",
   "imageId": "beefy.png",
   "appUrl": "https://app.beefy.com/",
   "twitterUrl": "https://twitter.com/beefyfinance",
-  "tags": ["defi"],
-  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base"]
+  "tags": ["defi", "lend"],
+  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base", "fraxtal"]
 },{
   "name": "MetaCRM",
   "description": "Providing a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses",
