@@ -454,4 +454,12 @@
   "twitterUrl": "https://twitter.com/0xcrv_hub",
   "tags": ["learningData", "crvusd"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "Chainfulness",
+  "description": "Smart DeFi portfolio tracking and automation tool for mindful crypto investors",
+  "imageId": "chainfulness.png",
+  "appUrl": "https://chainfulness.com/?utm_source=curve",
+  "twitterUrl": "https://twitter.com/chainfulness",
+  "tags": ["portfolio", "defi"],
+  "networks": ["ethereum", "bsc", "arbitrum", "polygon", "avalanche", "optimism", "fantom"]
 }]
