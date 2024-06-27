@@ -454,4 +454,12 @@
   "twitterUrl": "https://twitter.com/0xcrv_hub",
   "tags": ["learningData", "crvusd"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "Mezo",
+  "description": "Bitcoin's Economic Layer",
+  "imageId": "Mezo.png",
+  "appUrl": "https://mezo.org/hodl-with/curve",
+  "twitterUrl": "https://twitter.com/MezoNetwork",
+  "tags": ["defi", "other", "crvusd"],
+  "networks":  ["ethereum"]
 }]
