@@ -460,6 +460,6 @@
   "imageId": "Mezo.png",
   "appUrl": "https://mezo.org/hodl-with/curve",
   "twitterUrl": "https://twitter.com/MezoNetwork",
-  "tags": ["defi", "other", "crvusd"],
+  "tags": ["crvusd"],
   "networks":  ["ethereum"]
 }]
