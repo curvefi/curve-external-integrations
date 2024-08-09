@@ -462,4 +462,12 @@
   "twitterUrl": "https://twitter.com/MezoNetwork",
   "tags": ["crvusd"],
   "networks":  ["ethereum"]
+},{
+  "name": "Zunami Protocol",
+  "description": "Decentralized Stablecoins and Omnipools",
+  "imageId": "zunami.svg",
+  "appUrl": "https://app.zunami.io/",
+  "twitterUrl": "https://twitter.com/zunamiprotocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
