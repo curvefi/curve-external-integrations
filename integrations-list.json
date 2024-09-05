@@ -470,4 +470,12 @@
   "twitterUrl": "https://twitter.com/zunamiprotocol",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "ShapeShift",
+  "description": "Track, trade, buy, borrow, and earn. Community owned. Private. Non-custodial. Multichain.",
+  "imageId": "shapeshift.svg",
+  "appUrl": "https://app.shapeshift.com/",
+  "twitterUrl": "https://x.com/ShapeShift/",
+  "tags": ["defi", "portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "gnosis", "base"]
 }]
