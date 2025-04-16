@@ -47,14 +47,6 @@
   "tags": ["learningData"],
   "networks":  ["ethereum"]
 },{
-  "name": "Llamacollege",
-  "description": "Helping crypto projects create content together with their community",
-  "imageId": "llama-college.png",
-  "appUrl": null,
-  "twitterUrl": "https://twitter.com/LlamaCollege",
-  "tags": ["learningData"],
-  "networks":  ["ethereum"]
-},{
   "name": "Curve Dune",
   "description": "Learn about Curve's on-chain data",
   "imageId": "curve-dune.png",
@@ -173,22 +165,6 @@
   "appUrl": "https://pirex.io/",
   "twitterUrl": null,
   "tags": ["votingIncentives"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Uncle Bond",
-  "description": "vlCVX compounder",
-  "imageId": "uncle-bond.png",
-  "appUrl": null,
-  "twitterUrl": "https://twitter.com/unclebond_cvx",
-  "tags": ["votingIncentives"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Conic Finance",
-  "description": "Omnipools for curve.fi ecosystem",
-  "imageId": "conic-finance.png",
-  "appUrl": "https://conic.finance/",
-  "twitterUrl": "https://twitter.com/conicfinance",
-  "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
   "name": "Redacted",
@@ -310,14 +286,6 @@
   "twitterUrl": "https://twitter.com/OriginProtocol",
   "tags": ["defi"],
   "networks":  ["ethereum"]
-},{
-  "name": "Zunami Protocol",
-  "description": "Decentralized Stablecoins and Omnipools",
-  "imageId": "zunami.svg",
-  "appUrl": "https://app.zunami.io/",
-  "twitterUrl": "https://twitter.com/ZunamiProtocol",
-  "tags": ["defi"],
-  "networks":  ["ethereum", "polygon", "bsc"]
 },{
   "name": "Zapper",
   "description": "Track your DeFi and NFT portfolio",
@@ -478,4 +446,30 @@
   "twitterUrl": "https://x.com/ShapeShift/",
   "tags": ["defi", "portfolio"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "gnosis", "base"]
+ },{
+  "name": "Resupply",
+  "description": "A decentralized stablecoin protocol, leveraging the liquidity and stability of lending markets.",
+  "imageId": "resupply.png",
+  "appUrl": "https://resupply.fi/",
+  "twitterUrl": "https://x.com/ResupplyFi",
+  "tags": ["defi", "lend"],
+  "networks":  ["ethereum"]
+ },{
+  "name": "Spectra Finance",
+  "description": "Spectra is an EVM-centric protocol for interest rate derivatives with an easy-to-use flagship app.",
+  "imageId": "spectra.png",
+  "appUrl": "https://www.spectra.finance/",
+  "twitterUrl": "https://x.com/spectra_finance",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "arbitrum", "optimism", "base", "sonic"]
+ },{
+  "name": "Napier Finance",
+  "description": "The Napier Finance Version 2 is a modular yield tokenization protocol enabling users to fix, trade yield and curate yield.",
+  "imageId": "napier.png",
+  "appUrl": "https://napier.finance/",
+  "twitterUrl": "https://x.com/NapierFinance",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "arbitrum", "sonic", "fraxtal", "base", "optimism", "polygon", "bsc", "avalanche"]
 }]
+
+
