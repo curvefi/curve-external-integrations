@@ -179,7 +179,7 @@
   "description": "Borrow, leverage or earn yield",
   "imageId": "abracadabra.png",
   "appUrl": "https://abracadabra.money/",
-  "twitterUrl": "https://twitter.com/abracadabraERC",
+  "twitterUrl": "https://x.com/MIM_Spell",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
@@ -470,6 +470,20 @@
   "twitterUrl": "https://x.com/NapierFinance",
   "tags": ["defi"],
   "networks":  ["ethereum", "arbitrum", "sonic", "fraxtal", "base", "optimism", "polygon", "bsc", "avalanche"]
+ },{
+  "name": "Ethena Labs",
+  "description": "Enabling Internet Money",
+  "imageId": "ethena.png",
+  "appUrl": "https://ethena.fi/",
+  "twitterUrl": "https://x.com/ethena_labs",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+ },{
+  "name": "Usual",
+  "description": "Usual is a secure and decentralized fiat-backed (RWA) stablecoin issuer that redistributes value and ownership through the $USUAL token.",
+  "imageId": "usual.png",
+  "appUrl": "https://usual.money/",
+  "twitterUrl": "https://x.com/usualmoney",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
-
-
