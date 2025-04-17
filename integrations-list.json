@@ -98,7 +98,7 @@
   "name": "LobbyDAO",
   "description": "Designed to improve the voting market of vlCVX and veCRV",
   "imageId": "lobby-dao.png",
-  "appUrl": "https://www.lobbytoken.io/",
+  "appUrl": "https://www.lobby.page/#/",
   "twitterUrl": "https://twitter.com/LobbyPage",
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
