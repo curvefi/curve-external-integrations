@@ -446,7 +446,7 @@
   "twitterUrl": "https://x.com/ShapeShift/",
   "tags": ["defi", "portfolio"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "gnosis", "base"]
- },{
+},{
   "name": "Resupply",
   "description": "A decentralized stablecoin protocol, leveraging the liquidity and stability of lending markets.",
   "imageId": "resupply.png",
@@ -454,7 +454,7 @@
   "twitterUrl": "https://x.com/ResupplyFi",
   "tags": ["defi", "lend"],
   "networks":  ["ethereum"]
- },{
+},{
   "name": "Spectra Finance",
   "description": "Spectra is an EVM-centric protocol for interest rate derivatives with an easy-to-use flagship app.",
   "imageId": "spectra.png",
@@ -462,7 +462,7 @@
   "twitterUrl": "https://x.com/spectra_finance",
   "tags": ["defi"],
   "networks":  ["ethereum", "arbitrum", "optimism", "base", "sonic"]
- },{
+},{
   "name": "Napier Finance",
   "description": "The Napier Finance Version 2 is a modular yield tokenization protocol enabling users to fix, trade yield and curate yield.",
   "imageId": "napier.png",
@@ -470,7 +470,7 @@
   "twitterUrl": "https://x.com/NapierFinance",
   "tags": ["defi"],
   "networks":  ["ethereum", "arbitrum", "sonic", "fraxtal", "base", "optimism", "polygon", "bsc", "avalanche"]
- },{
+},{
   "name": "Ethena Labs",
   "description": "Enabling Internet Money",
   "imageId": "ethena.png",
@@ -478,7 +478,7 @@
   "twitterUrl": "https://x.com/ethena_labs",
   "tags": ["defi"],
   "networks":  ["ethereum"]
- },{
+},{
   "name": "Usual",
   "description": "Usual is a secure and decentralized fiat-backed (RWA) stablecoin issuer that redistributes value and ownership through the $USUAL token.",
   "imageId": "usual.png",
@@ -486,4 +486,28 @@
   "twitterUrl": "https://x.com/usualmoney",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "F(x) Protocol",
+  "description": "f(x) Protocol empowers DeFi to bring an innovative approach to stablecoins and leverage trading.",
+  "imageId": "fx.png",
+  "appUrl": "https://fx.aladdin.club/",
+  "twitterUrl": "https://x.com/protocol_fx",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Odos Protocol",
+  "description": "Odos optimizes intent-based routing for superior swap rates, aggregating DEX liquidity for efficient trades.",
+  "imageId": "odos.png",
+  "appUrl": "https://www.odos.xyz/",
+  "twitterUrl": "https://x.com/odosprotocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "optimism", "arbitrum", "fraxtal", "sonic"]
+},{
+  "name": "CoWSwap",
+  "description": "User-protective products for DeFi.",
+  "imageId": "cowswap.png",
+  "appUrl": "https://cow.fi/",
+  "twitterUrl": "https://x.com/CoWSwap",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "gnosis", "arbitrum"]
 }]
