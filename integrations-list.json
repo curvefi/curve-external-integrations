@@ -510,4 +510,12 @@
   "twitterUrl": "https://x.com/CoWSwap",
   "tags": ["defi"],
   "networks":  ["ethereum", "gnosis", "arbitrum"]
+},{
+  "name": "TOKEMAK",
+  "description": "Tokemak is a protocol offering a fully autonomous, transparent rebalance solution for liquidity providers.",
+  "imageId": "tokemak.png",
+  "appUrl": "https://www.tokemak.xyz/",
+  "twitterUrl": "https://x.com/tokemakxyz",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
