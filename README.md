@@ -1,6 +1,6 @@
 # Curve Integrations
 
-This repository's configuration files contain all metadata for apps and tools listed on https://curve.fi/#/integrations
+This repository's configuration files contain all metadata for apps and tools listed on https://curve.finance/dex/ethereum/integrations/
 
 **Definition:** A Curve integration is a project that builds on top of Curve, and as a result extends what Curve users can do. E.g. using Curve LP tokens as collateral for anything, stats or information about Curve and its ecosystem, third-party front-ends…
 
