@@ -518,4 +518,12 @@
   "twitterUrl": "https://x.com/tokemakxyz",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "Yodl",
+  "description": "Payment rails for Stablecoins. Cross-stable and cross-chain payments.",
+  "imageId": "yodl.png",
+  "appUrl": "https://yodl.me/",
+  "twitterUrl": "https://x.com/yodlpay",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "polygon", "arbitrum", "optimism", "gnosis", "base"]
 }]
