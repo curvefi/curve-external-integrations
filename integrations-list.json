@@ -526,4 +526,12 @@
   "twitterUrl": "https://x.com/yodlpay",
   "tags": ["defi"],
   "networks":  ["ethereum", "polygon", "arbitrum", "optimism", "gnosis", "base"]
+},{
+  "name": "Tokenlon",
+  "description": "A trusted decentralized exchange protocol on blockchain networks",
+  "imageId": "Tokenlon-Avatar.png",
+  "appUrl": "https://tokenlon.im/instant",
+  "twitterUrl": "https://x.com/tokenlon",
+  "tags": ["defi"],
+  "networks": ["ethereum", "polygon", "arbitrum", "optimism", "base"]
 }]
