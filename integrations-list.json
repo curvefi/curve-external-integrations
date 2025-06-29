@@ -63,14 +63,6 @@
   "tags": ["learningData"],
   "networks":  ["ethereum"]
 },{
-  "name": "Cryptouf",
-  "description": "Weekly newsletter",
-  "imageId": "cryptouf.png",
-  "appUrl": "https://substack.com/@cryptouf",
-  "twitterUrl": "https://twitter.com/cryptouf",
-  "tags": ["learningData"],
-  "networks":  ["ethereum"]
-},{
   "name": "Votium",
   "description": "Rewards $CRX & $CRV holders for their valuable voting power",
   "imageId": "votium.png",
@@ -167,11 +159,11 @@
   "tags": ["votingIncentives"],
   "networks":  ["ethereum"]
 },{
-  "name": "Redacted",
-  "description": "Empowering on-chain liquidity, governance, and cash flow for Defi protocols",
-  "imageId": "redacted.png",
-  "appUrl": "https://redacted.finance/",
-  "twitterUrl": "https://twitter.com/redacted_money",
+  "name": "Dinero",
+  "description": "Dinero is a suite of products that scale yield for chains, users, and institutions.",
+  "imageId": "dinero.png",
+  "appUrl": "https://dinero.xyz/",
+  "twitterUrl": "https://x.com/dinero_xyz",
   "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
@@ -192,7 +184,7 @@
   "networks":  ["ethereum"]
 },{
   "name": "Curvance",
-  "description": "Lending & boosted rewards for Curve, Convex and Yearn deposits - $CVE",
+  "description": "Lending & boosted rewards for Curve, Convex and Yearn deposits.",
   "imageId": "curvance.png",
   "appUrl": "https://www.curvance.com/",
   "twitterUrl": "https://twitter.com/Curvance",
@@ -242,7 +234,7 @@
   "name": "Frax Finance",
   "description": "Frax Protocol issues the most innovative stablecoins in crypto & builds cross chain infrastructure for them: $FRAX \uD83D\uDCB0 $FPI ¤ $frxETH",
   "imageId": "frax-finance.png",
-  "appUrl": "https://frax.finance",
+  "appUrl": "https://frax.com/",
   "twitterUrl": "https://twitter.com/FraxFinance",
   "tags": ["defi"],
   "networks":  ["ethereum"]
@@ -310,14 +302,6 @@
   "twitterUrl": "https://twitter.com/rotkiapp",
   "tags": ["portfolio"],
   "networks":  ["ethereum", "polygon", "arbitrum", "avalanche", "optimism"]
-},{
-  "name": "Chaos Labs crvUSD dashboard",
-  "description": "crvUSD risk monitoring and alerting platform",
-  "imageId": "chaoslabs.png",
-  "appUrl": "https://community.chaoslabs.xyz/crv-usd/risk/overview",
-  "twitterUrl": null,
-  "tags": ["learningData", "crvusd"],
-  "networks":  ["ethereum"]
 },{
   "name": "Curve Monitor",
   "description": "Extensive data about crvUSD, Curve pools, and Curve DAO",
@@ -534,4 +518,12 @@
   "twitterUrl": "https://x.com/tokenlon",
   "tags": ["defi"],
   "networks": ["ethereum", "polygon", "arbitrum", "optimism", "base"]
+},{
+  "name": "LayerZero",
+  "description": "Build Anything. Build Omnichain.",
+  "imageId": "layerzero.png",
+  "appUrl": "https://layerzero.network/",
+  "twitterUrl": "https://x.com/LayerZero_Core",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "arbitrum", "avalanche", "base", "bsc", "celo", "fantom", "fraxtal", "gnosis", "optimism", "polygon", "sonic"]
 }]
