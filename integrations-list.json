@@ -383,14 +383,6 @@
   "tags": ["defi", "votingIncentives"],
   "networks":  ["ethereum", "polygon", "bsc", "avalanche", "arbitrum", "optimism"]
 },{
-  "name": "UwU Lend",
-  "description": "A lending protocol that generates significant exposure by integrating lending markets, strategies, and vaults.",
-  "imageId": "uwulend.svg",
-  "appUrl": "https://uwulend.fi/",
-  "twitterUrl": "https://twitter.com/uwu_lend",
-  "tags": ["defi"],
-  "networks":  ["ethereum"]
-},{
   "name": "IntoTheBlock crvUSD Dashboard",
   "description": "crvUSD risk monitoring dashboard",
   "imageId": "into-the-block.png",
@@ -413,14 +405,6 @@
   "appUrl": "https://mezo.org/hodl-with/curve",
   "twitterUrl": "https://twitter.com/MezoNetwork",
   "tags": ["crvusd"],
-  "networks":  ["ethereum"]
-},{
-  "name": "Zunami Protocol",
-  "description": "Decentralized Stablecoins and Omnipools",
-  "imageId": "zunami.svg",
-  "appUrl": "https://app.zunami.io/",
-  "twitterUrl": "https://twitter.com/zunamiprotocol",
-  "tags": ["defi"],
   "networks":  ["ethereum"]
 },{
   "name": "ShapeShift",
