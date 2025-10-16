@@ -510,4 +510,12 @@
   "twitterUrl": "https://x.com/LayerZero_Core",
   "tags": ["defi"],
   "networks":  ["ethereum", "arbitrum", "avalanche", "base", "bsc", "celo", "fantom", "fraxtal", "gnosis", "optimism", "polygon", "sonic"]
+},{
+  "name": "yieldbasis",
+  "description": "Turning crypto into productive assets using original Automatic Market Making without IL. ",
+  "imageId": "yb.png",
+  "appUrl": "https://yieldbasis.com/",
+  "twitterUrl": "https://x.com/yieldbasis",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
 }]
