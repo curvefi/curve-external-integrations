@@ -552,7 +552,7 @@
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "sonic", "gnosis", "base", "fraxtal", "monad", "etherlink", "hyperliquid", "tac", "ink", "robinhood", "xdc"]
 },{
   "name": "Fenix Yield",
-  "description": "Self-custody Android app for staking ETH across five protocols, including the Curve ETH/stETH pool, from an on-chain vault you own.",
+  "description": "Android app for staking ETH across five protocols, including the Curve ETH/stETH pool, from an on-chain Safe vault you own.",
   "imageId": "fenix-yield.png",
   "appUrl": "https://fenix-yield.com/staking-app.html",
   "twitterUrl": "https://x.com/dragonfart64361",
