@@ -550,4 +550,12 @@
   "twitterUrl": "https://x.com/merkl_xyz/",
   "tags": ["defi"],
   "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "sonic", "gnosis", "base", "fraxtal", "monad", "etherlink", "hyperliquid", "tac", "ink", "robinhood", "xdc"]
+},{
+  "name": "yRisk",
+  "description": "Independent risk services.",
+  "imageId": "yrisk.png",
+  "appUrl": "https://yrisklabs.com/",
+  "twitterUrl": "https://x.com/yRiskLabs",
+  "tags": ["learningData"],
+  "networks":  ["ethereum"]
 }]
